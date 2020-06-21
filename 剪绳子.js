@@ -19,6 +19,3 @@ function cutRope(number) {
   }
   return dp[number];
 }
-module.exports = {
-  cutRope: cutRope,
-};
